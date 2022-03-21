@@ -1,7 +1,9 @@
-body {
-    font-family: "Verdana", monospace;
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;500&display=swap");
+
+* body {
+  font-family: "Rajdhani";
     text-align: center;
-    background-image: url("https://thumbs.dreamstime.com/b/grunge-abstrato-escuro-rusty-distorted-decay-old-texture-do-verde-azul-da-pintura-para-autumn-background-wallpaper-122816826.jpg");
+    background-image: url("https://img.freepik.com/fotos-gratis/fundo-de-pipoca-para-o-conceito-de-cinema_23-2148115926.jpg?size=626&ext=jpg");
     background-color: #000000;
     background-size: cover;
     background-position: center top;
@@ -21,7 +23,7 @@ body {
   .page-subtitle {
     color: #ffffff;
     margin-top: 30px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: "Rajdhani";
   }
   
   .page-logo {
